@@ -34,19 +34,20 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/toroplus/proprietary/system/vendor/firmware/ducati-m3.bin:system/vendor/firmware/ducati-m3.bin \
     vendor/samsung/toroplus/proprietary/system/vendor/firmware/fw_bcmdhd.bin:system/vendor/firmware/fw_bcmdhd.bin \
     vendor/samsung/toroplus/proprietary/system/vendor/firmware/fw_bcmdhd_apsta.bin:system/vendor/firmware/fw_bcmdhd_apsta.bin \
-    vendor/samsung/toroplus/proprietary/system/vendor/firmware/fw_bcmdhd_p2p.bin:system/vendor/firmware/fw_bcmdhd_p2p.bin \
     vendor/samsung/toroplus/proprietary/system/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
     vendor/samsung/toroplus/proprietary/system/vendor/firmware/bcm4330.hcd:system/vendor/firmware/bcm4330.hcd \
     vendor/samsung/toroplus/proprietary/system/vendor/firmware/mms144_ts_rev31.fw:system/vendor/firmware/mms144_ts_rev31.fw \
     vendor/samsung/toroplus/proprietary/system/vendor/firmware/mms144_ts_rev32.fw:system/vendor/firmware/mms144_ts_rev32.fw \
     vendor/samsung/toroplus/proprietary/system/vendor/firmware/smc_pa_wvdrm.ift:system/vendor/firmware/smc_pa_wvdrm.ift \
     vendor/samsung/toroplus/proprietary/system/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/samsung/toroplus/proprietary/system/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/toroplus/proprietary/system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so:system/vendor/lib/egl/libEGL_POWERVR_SGX540_120.so \
     vendor/samsung/toroplus/proprietary/system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so:system/vendor/lib/egl/libGLESv1_CM_POWERVR_SGX540_120.so \
     vendor/samsung/toroplus/proprietary/system/vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so:system/vendor/lib/egl/libGLESv2_POWERVR_SGX540_120.so \
     vendor/samsung/toroplus/proprietary/system/vendor/lib/hw/gps.omap4.so:system/vendor/lib/hw/gps.omap4.so \
     vendor/samsung/toroplus/proprietary/system/vendor/lib/hw/gralloc.omap4.so:system/vendor/lib/hw/gralloc.omap4.so \
     vendor/samsung/toroplus/proprietary/system/vendor/lib/hw/hwcomposer.omap4.so:system/vendor/lib/hw/hwcomposer.omap4.so \
+    vendor/samsung/toroplus/proprietary/system/vendor/lib/libfrsdk.so:system/vendor/lib/libfrsdk.so \
     vendor/samsung/toroplus/proprietary/system/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/samsung/toroplus/proprietary/system/vendor/lib/libglslcompiler.so:system/vendor/lib/libglslcompiler.so \
     vendor/samsung/toroplus/proprietary/system/vendor/lib/libIMGegl.so:system/vendor/lib/libIMGegl.so \
